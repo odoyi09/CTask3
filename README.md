@@ -1,1 +1,1 @@
-my first Git project
+my second Git project
